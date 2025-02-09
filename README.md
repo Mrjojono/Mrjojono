@@ -1,6 +1,6 @@
 
 
-# 👋 Hello I'm Nutsukpui Joan Kekeli (alias Mrjojono)  
+# 👋 Hello I'm Joan Kekeli Kodjo NUTSUKPUI (alias Mrjojono)  
 
 Welcome to my GitHub profile! Here's a bit about me:  
 ## 🌱 About Me  
