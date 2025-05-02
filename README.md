@@ -48,5 +48,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 ## 📫 How to Reach Me  
 - 🌐 **LinkedIn**: [Joan Nutsukpui](https://www.linkedin.com/in/joannutsukpui)  
 - ✉️ **Email**: nutsukpuijoankekeli@gmail.com
--  ✉️ **WhatsApp**: +228 79971453 
+-  ✉️ **WhatsApp**: +228 79971453
+-  
+[](https://github-readme-stats.hackclub.dev/api/wakatime?username=1479&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)H
 ---
