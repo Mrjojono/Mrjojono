@@ -12,8 +12,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 🧩 **Algorithms**: Constantly practicing and refining my problem-solving skills.  
 - 🎮 **Game Development**: Modifying ROM-based games and creating interactive experiences.  
 ---
-## 🌱 I’m Currently Learning  - Java Programming  - Python and Django  - Web Development with PHP, JavaScript, HTML, and CSS  
----
+## 🌱 I’m Currently Learning    - ReactJs - Laravel  - Mobile Development  - Web Development with PHP, JavaScript
 ## 🌍 Languages & Tools    
 
 ### **Programming Languages**  
