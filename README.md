@@ -27,6 +27,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge) ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)  
 
+[![wakatime](https://wakatime.com/badge/user/ac615a52-0caa-4b7a-8379-856c50de598c.svg)](https://wakatime.com/@ac615a52-0caa-4b7a-8379-856c50de598c)
 ---
 ## 🎯 Goals  
 - Improve my **English proficiency** and speak fluently for academic opportunities.  
@@ -48,5 +49,5 @@ Welcome to my GitHub profile! Here's a bit about me:
 - ✉️ **Email**: nutsukpuijoankekeli@gmail.com
 -  ✉️ **WhatsApp**: +228 79971453
 -  
-[](https://github-readme-stats.hackclub.dev/api/wakatime?username=1479&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)H
+[](https://github-readme-stats.hackclub.dev/api/wakatime?username=1479&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 ---
