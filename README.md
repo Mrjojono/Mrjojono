@@ -16,15 +16,21 @@ Welcome to my GitHub profile! Here's a bit about me:
 ## 🌍 Languages & Tools    
 
 ### **Programming Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+
 
 ### **Frameworks**  
-![ReactJS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)  
+![ReactJS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
+
 
 ### **Tools & IDEs**  
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge) ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge) ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)  
 
 [![wakatime](https://wakatime.com/badge/user/ac615a52-0caa-4b7a-8379-856c50de598c.svg)](https://wakatime.com/@ac615a52-0caa-4b7a-8379-856c50de598c)
