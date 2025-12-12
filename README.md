@@ -1,59 +1,87 @@
+# Joan Kekeli Kodjo NUTSUKPUI
 
+**Software Engineering & Artificial Intelligence Student** | Full-Stack Developer
 
-# 👋 Hello I'm Joan Kekeli Kodjo NUTSUKPUI (alias Mrjojono)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joan%20Nutsukpui-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/joannutsukpui)
+[![Email](https://img.shields.io/badge/Email-nutsukpuijoankekeli%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nutsukpuijoankekeli@gmail.com)
+[![WakaTime](https://wakatime.com/badge/user/ac615a52-0caa-4b7a-8379-856c50de598c.svg)](https://wakatime.com/@ac615a52-0caa-4b7a-8379-856c50de598c)
 
-Welcome to my GitHub profile! Here's a bit about me:  
-## 🌱 About Me  
-- 🎓 I'm a **Bachelor's student** in **Software Engineering / Artificial Intelligence**, currently exploring exciting topics in robotics, AI, web development, and gaming.  
-- 🖥️ I have a passion for programming, with experience in **web development**, **software engineering**, and **algorithm design**.  
 ---
-## 💻 What I Do  
-- 🌐 **Web Development**: ReactJS, PHP, Tailwind CSS, Bootstrap, HTML, and JavaScript.  
-- 🧩 **Algorithms**: Constantly practicing and refining my problem-solving skills.  
-- 🎮 **Game Development**: Modifying ROM-based games and creating interactive experiences.  
+
+## Professional Summary
+
+Bachelor's student specializing in Software Engineering and Artificial Intelligence with hands-on experience in full-stack web development, algorithm design, and software architecture. Passionate about leveraging technology to create meaningful solutions and continuously expanding expertise in modern development frameworks and AI applications.
+
 ---
-## 🌱 I’m Currently Learning    - ReactJs - Laravel  - Mobile Development  - Web Development with PHP, JavaScript
-## 🌍 Languages & Tools    
 
-### **Programming Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+## Technical Expertise
 
+**Programming Languages**
 
-### **Frameworks**  
-![ReactJS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
+**Frameworks & Libraries**
 
-### **Tools & IDEs**  
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge) ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-[![wakatime](https://wakatime.com/badge/user/ac615a52-0caa-4b7a-8379-856c50de598c.svg)](https://wakatime.com/@ac615a52-0caa-4b7a-8379-856c50de598c)
+**Development Tools**
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 ---
-## 🎯 Goals  
-- Improve my **English proficiency** and speak fluently for academic opportunities.  
-- Explore **Linux environments** to boost performance and productivity.  
-- Continuously learn and use my skills to make a positive impact on people's lives.  
----
-## 👯 I’m Looking to Collaborate On  
--  Projects to improve my skills in web development and programming in Java.  
----
-## 😄 Pronouns  : He/Him  
 
-## ⚡ Fun Facts  
-- 📱 I enjoy experimenting with mobile apps, including transparent themes and dark modes.  
-- 🎮 A gamer at heart—I’m always on the lookout for immersive war campaigns (especially **Call of Duty**).  
-- 🧪 I have a knack for DIY projects, like helping with a soap-making project in school.  
+## Current Focus
+
+- Advancing proficiency in **React.js** and modern front-end architecture
+- Developing **mobile applications** with cross-platform frameworks
+- Deepening knowledge in **JavaScript ecosystem** and best practices
+- Exploring **robotics** and **AI applications** in real-world scenarios
+
 ---
-## 📫 How to Reach Me  
-- 🌐 **LinkedIn**: [Joan Nutsukpui](https://www.linkedin.com/in/joannutsukpui)  
-- ✉️ **Email**: nutsukpuijoankekeli@gmail.com
--  ✉️ **WhatsApp**: +228 79971453
--  
-[](https://github-readme-stats.hackclub.dev/api/wakatime?username=1479&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
+## Professional Goals
+
+- Enhance English language proficiency for international collaboration and academic opportunities
+- Master Linux-based development environments for optimized productivity
+- Contribute to open-source projects that create positive social impact
+- Build scalable applications that solve real-world problems
+
 ---
+
+## Collaboration Interests
+
+I'm actively seeking opportunities to collaborate on:
+
+- Full-stack web development projects using modern frameworks
+- Java-based enterprise applications and software architecture
+- Open-source initiatives in AI and machine learning
+- Innovative projects that challenge and expand my technical skills
+
+---
+
+## Contact Information
+
+**Email:** nutsukpuijoankekeli@gmail.com  
+**WhatsApp:** +228 79971453  
+**LinkedIn:** [linkedin.com/in/joannutsukpui](https://www.linkedin.com/in/joannutsukpui)  
+**Location:** Lomé, Togo
+
+---
+
+## Development Activity
+
+[![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=1479&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Coding+Activity&layout=compact&cache_seconds=0&langs_count=8)](https://github.com/Mrjojono)
+
+---
+
+*Open to internship opportunities, freelance projects, and collaborative development ventures.*
