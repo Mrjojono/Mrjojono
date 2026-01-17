@@ -78,10 +78,4 @@ I'm actively seeking opportunities to collaborate on:
 
 ---
 
-## Development Activity
-
-[![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=1479&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Coding+Activity&layout=compact&cache_seconds=0&langs_count=8)](https://github.com/Mrjojono)
-
----
-
 *Open to internship opportunities, freelance projects, and collaborative development ventures.*
